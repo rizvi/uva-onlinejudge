@@ -1,21 +1,5 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package adhoc;
 
-/**
- * @author Juan Sebastian Beltran Rojas
- * @mail jsbeltran.valhalla@gmail.com
- * @veredict T.L.E.
- * @problemId 11800
- * @problemName Determine the Shape
- * @judge http://uva.onlinejudge.org/
- * @category geom
- * @level ?
- * @date 27/10/2010
- *
- */
 import java.awt.geom.*;
 import java.io.*;
 import java.util.*;
